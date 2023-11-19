@@ -1,0 +1,12 @@
+let n1 = 5
+let n2 = 10
+let n3 = 15
+
+let p1 = 2
+let p2 = 4
+let p3 = 6
+
+let somaPesos = p1 + p2 + p3;
+let media = (n1 * p1 + n2 * p2 + n3 * p3) / somaPesos;
+
+console.log("A média ponderada é: ",  media);
